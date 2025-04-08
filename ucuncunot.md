@@ -77,4 +77,4 @@ Dosya: `dr-xrw-r-- 2 root root 4096 Kas 5 01:02 bin`
 
 ---
 
-Bu düzenlemeler sorularınıza uygun oldu mu? 😊
+
