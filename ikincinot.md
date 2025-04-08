@@ -25,7 +25,7 @@
    Komut: `free -h`
 
 8. **Aşağıdaki komut bloğu çalıştırıldığında oluşan çıktı nedir?**
-9. Çıktı: `/usr/local`
+ Çıktı: `/usr/local`
 
 9. **Sistemde sadece "b" ile başlayan gizli dosyaları görüntülemek için kullanılan komut nedir?**  
 Komut: `ls -a | grep '^.b'`
